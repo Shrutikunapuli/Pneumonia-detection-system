@@ -14,7 +14,7 @@ Early Signs of Pneumonia
 * Low energy
 * Fatigue
 * 
-**Dataset description 
+**Dataset description**
 
 Out of many possible tests present to detect the most widely used technique is Chest X-ray. 
 X-rays are a type of radiation called electromagnetic waves, which create pictures of the inside of your body. They are not expensive when compared to other imaging techniques and can be used by patients with metal implants in the body.
